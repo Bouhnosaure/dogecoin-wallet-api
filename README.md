@@ -37,7 +37,7 @@ vendor/
 Via Composer
 
 ``` bash
-$ composer require bouhnosaure/dogecoin-wallet-api
+$ composer require Bouhnosaure/dogecoin-wallet-api
 ```
 
 ## Usage
@@ -74,17 +74,17 @@ If you discover any security related issues, please email dev.citrex@gmail.com i
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-[ico-version]: https://img.shields.io/packagist/v/bouhnosaure/dogecoin-wallet-api.svg?style=flat-square
+[ico-version]: https://img.shields.io/packagist/v/Bouhnosaure/dogecoin-wallet-api.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-travis]: https://img.shields.io/travis/bouhnosaure/dogecoin-wallet-api/master.svg?style=flat-square
-[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/bouhnosaure/dogecoin-wallet-api.svg?style=flat-square
-[ico-code-quality]: https://img.shields.io/scrutinizer/g/bouhnosaure/dogecoin-wallet-api.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/bouhnosaure/dogecoin-wallet-api.svg?style=flat-square
+[ico-travis]: https://img.shields.io/travis/Bouhnosaure/dogecoin-wallet-api/master.svg?style=flat-square
+[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/Bouhnosaure/dogecoin-wallet-api.svg?style=flat-square
+[ico-code-quality]: https://img.shields.io/scrutinizer/g/Bouhnosaure/dogecoin-wallet-api.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/Bouhnosaure/dogecoin-wallet-api.svg?style=flat-square
 
-[link-packagist]: https://packagist.org/packages/bouhnosaure/dogecoin-wallet-api
-[link-travis]: https://travis-ci.org/bouhnosaure/dogecoin-wallet-api
-[link-scrutinizer]: https://scrutinizer-ci.com/g/bouhnosaure/dogecoin-wallet-api/code-structure
-[link-code-quality]: https://scrutinizer-ci.com/g/bouhnosaure/dogecoin-wallet-api
-[link-downloads]: https://packagist.org/packages/bouhnosaure/dogecoin-wallet-api
-[link-author]: https://github.com/bouhnosaure
+[link-packagist]: https://packagist.org/packages/Bouhnosaure/dogecoin-wallet-api
+[link-travis]: https://travis-ci.org/Bouhnosaure/dogecoin-wallet-api
+[link-scrutinizer]: https://scrutinizer-ci.com/g/Bouhnosaure/dogecoin-wallet-api/code-structure
+[link-code-quality]: https://scrutinizer-ci.com/g/Bouhnosaure/dogecoin-wallet-api
+[link-downloads]: https://packagist.org/packages/Bouhnosaure/dogecoin-wallet-api
+[link-author]: https://github.com/Bouhnosaure
 [link-contributors]: ../../contributors

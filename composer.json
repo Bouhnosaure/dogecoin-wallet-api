@@ -1,18 +1,18 @@
 {
-  "name": "bouhnosaure/dogecoin-wallet-api",
+  "name": "Bouhnosaure/dogecoin-wallet-api",
   "type": "library",
   "description": "PHP library for interacting with the Dogecoin core wallet by json rpc",
   "keywords": [
-    "bouhnosaure",
+    "Bouhnosaure",
     "dogecoin-wallet-api"
   ],
-  "homepage": "https://github.com/bouhnosaure/dogecoin-wallet-api",
+  "homepage": "https://github.com/Bouhnosaure/dogecoin-wallet-api",
   "license": "MIT",
   "authors": [
     {
       "name": "ci_trex",
       "email": "dev.citrex@gmail.com",
-      "homepage": "https://github.com/bouhnosaure",
+      "homepage": "https://github.com/Bouhnosaure",
       "role": "Developer"
     }
   ],

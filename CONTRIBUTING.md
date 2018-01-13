@@ -2,7 +2,7 @@
 
 Contributions are **welcome** and will be fully **credited**.
 
-We accept contributions via Pull Requests on [Github](https://github.com/bouhnosaure/dogecoin-wallet-api).
+We accept contributions via Pull Requests on [Github](https://github.com/Bouhnosaure/dogecoin-wallet-api).
 
 
 ## Pull Requests
