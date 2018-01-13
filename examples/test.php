@@ -4,9 +4,6 @@ require __DIR__ . '/../vendor/autoload.php';
 
 use Bouhnosaure\Dogecoin\Client as DogecoinClient;
 
-//$dogecoind = new DogecoinClient('http://rpcuser:rpcpassword@localhost:8332/');
-//$dogecoind = new DogecoinClient('http://localhost:44556/');
-
 $dogecoind = new DogecoinClient([
     'scheme' => 'http',                 // optional, default http
     'host' => 'localhost',            // optional, default localhost
@@ -17,5 +14,16 @@ $dogecoind = new DogecoinClient([
 ]);
 
 $result = $dogecoind->getBalance();
-
 var_dump($result->get());
+
+$address = $dogecoind->getNewAddress();
+var_dump($address->get());
+
+$transaction = $dogecoind->sendToAddress($address->get(), 4);
+var_dump($transaction->get());
+
+$result = $dogecoind->getBalance();
+var_dump($result->get());
+
+
+

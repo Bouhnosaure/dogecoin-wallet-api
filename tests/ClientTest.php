@@ -531,14 +531,14 @@ class ClientTest extends TestCase
         $promise->wait();
     }
 
-    public function testToBtc()
+    public function testToDoge()
     {
-        $this->assertEquals(0.00005849, Dogecoin\Client::toBtc(310000 / 53));
+        $this->assertEquals(0.00005849, Dogecoin\Client::toDogecoin(310000 / 53));
     }
 
-    public function testToSatoshi()
+    public function testToSibetoshi()
     {
-        $this->assertEquals(5849, Dogecoin\Client::toSatoshi(0.00005849));
+        $this->assertEquals(5849, Dogecoin\Client::toShibetoshi(0.00005849));
     }
 
     public function testToFixed()

@@ -289,6 +289,19 @@ class Client
     }
 
     /**
+     * Converts amount from dogecoin to Koinu.
+     *
+     * @param float $amount
+     *
+     * @return int
+     */
+    public static function toKoinu($amount)
+    {
+        return self::toShibetoshi($amount);
+    }
+
+
+    /**
      * Brings number to fixed pricision without rounding.
      *
      * @param float $number
