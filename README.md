@@ -7,13 +7,16 @@
 [![Quality Score][ico-code-quality]][link-code-quality]
 [![Total Downloads][ico-downloads]][link-downloads]
 
+## Important
+
+This library is mainly and mostly based on [denpamusic/php-bitcoinrpc](https://github.com/denpamusic/php-bitcoinrpc)
+
 ## Disclaimer
 
 This is an experimental library, in early stage of development. use it at you own risks.
 Also, i, from now, can't be responsible for your possible loss or failures.
 You always should test this library in a testnet environement before using it on production stage (if the library become stable)
 Anyway have fun and remember 1Doge = 1Doge 
-
 
 
 ## Structure
