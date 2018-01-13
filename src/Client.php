@@ -153,8 +153,8 @@ class Client
         $params = [],
         callable $onFullfiled = null,
         callable $onRejected = null
-    )
-    {
+    ) {
+    
 
         $json = [
             'method' => strtolower($method),
